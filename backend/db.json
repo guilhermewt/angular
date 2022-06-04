@@ -1,19 +1,39 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "caneta BIC Preta",
-        "price": 5.89
-      },
-      {
-        "id": 2,
-        "name": "Notebook Mac Pro",
-        "price": 12000.89
-      },
-      {
-        "id": 3,
-        "name": "samsung ",
-        "price": 5000.89
-      }
-    ]
-  }
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "samsung ",
+      "price": 5000.89
+    },
+    {
+      "name": "notebook",
+      "price": 12.9,
+      "id": 4
+    },
+    {
+      "name": "vindo do formulario",
+      "price": 12.8,
+      "id": 5
+    },
+    {
+      "name": "caixa de som",
+      "price": 49.59,
+      "id": 6
+    },
+    {
+      "name": "lapis preto",
+      "price": 7852,
+      "id": 7
+    }
+  ]
+}
